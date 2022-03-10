@@ -1,2 +1,2 @@
-# git
+# Git
 Empezando con Git
